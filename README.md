@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**Pamade/Pamade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Patryk and I am looking for a first a job as a frontend developer. I am a hard-working, independent and communicative person.<br/>
+✉️ mikolajczakkontakt@gmail.com
+________
+### :computer: My skills
+- HTML
+- Javascript
+- CSS
+- SCSS
+- React
+- Redux
+- MySQL (basics)
+- English (communicative)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+________
+
+### :hammer_and_wrench: Experience
+In May last year, I had a month internship at https://clearmedia.pl/, where I was responsible for coding websites based on a template using React.
+
+### :orange_book: Currently learning
+
+Presently I am improving my skills in React and Redux
+
+
