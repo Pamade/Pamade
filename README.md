@@ -21,6 +21,6 @@ In May last year, I had a month internship at https://clearmedia.pl/, where I wa
 
 ### :orange_book: Currently learning
 
-Presently I am improving my skills in React and Redux
+Presently I am learning Typescript
 
 
