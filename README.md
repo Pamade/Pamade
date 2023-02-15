@@ -14,9 +14,3 @@ ________
 - English (communicative)
 
 
-________
-
-### :hammer_and_wrench: Experience
-In May last year, I had a month internship at https://clearmedia.pl/, where I was responsible for coding websites based on a template using React.
-
-
