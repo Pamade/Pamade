@@ -6,11 +6,11 @@ ________
 ### :computer: My skills
 - HTML
 - Javascript
-- CSS
 - SCSS
 - React
-- Redux
-- MySQL (basics)
+- NodeJS (express)
+- MongoDB (basics)
+- Typescript
 - English (communicative)
 
 
@@ -18,9 +18,5 @@ ________
 
 ### :hammer_and_wrench: Experience
 In May last year, I had a month internship at https://clearmedia.pl/, where I was responsible for coding websites based on a template using React.
-
-### :orange_book: Currently learning
-
-Presently I am learning Typescript
 
 
