@@ -8,8 +8,8 @@ ________
 - Javascript
 - SCSS
 - React
-- NodeJS (express)
-- MongoDB (basics)
+- Java
+- Spring Boot
 - Typescript
 - English (communicative)
 
